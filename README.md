@@ -15,7 +15,7 @@ Un serveur MCP (Model Context Protocol) développé en Java pour tester les perf
 
 ## Prérequis
 
-- Java 23 ou supérieur
+- Java 21 ou supérieur
 - Maven 3.8+
 - Le client Discovery Intech en cours d'exécution (par défaut sur http://localhost:8072)
 
